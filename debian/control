@@ -11,7 +11,8 @@ Vcs-Git: https://github.com/platinasystems/platina-mk1-release.git
 Package: platina-mk1-release
 Architecture: amd64
 Depends: ${misc:Depends}, goes-platina-mk1, goes-boot-mk1,
-	 linux-image-platina-mk1, linux-headers-platina-mk1
+	 linux-image-platina-mk1, linux-headers-platina-mk1,
+	 platina-mk1-ttys
 Description: Platina MK1 release meta package
  This is the Platina MK1 release meta package. If you install this,
  your Platina MK1 installation will be kept up to date.
