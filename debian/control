@@ -1,0 +1,18 @@
+Source: platina-mk1-release
+Section: admin
+Priority: optional
+Maintainer: Kevin Paul Herbert <kph@platinasystems.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://github.com/platinasystems/platina-mk1-release
+Vcs-Browser: https://github.com/platinasystems/platina-mk1-release
+Vcs-Git: https://github.com/platinasystems/platina-mk1-release.git
+
+Package: platina-mk1-release
+Architecture: amd64
+Depends: ${misc:Depends}, goes-platina-mk1, goes-boot-mk1,
+	 linux-image-platina-mk1, linux-headers-platina-mk1
+Description: Platina MK1 release meta package
+ This is the Platina MK1 release meta package. If you install this,
+ your Platina MK1 installation will be kept up to date.
+
