@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/platinasystems/platina-mk1-release.git
 
 Package: platina-mk1-release
 Architecture: amd64
-Depends: ${misc:Depends}, goes-platina-mk1 (>= 2.0~alpha.1),
+Depends: ${misc:Depends}, goes-platina-mk1 (>= 2.0~alpha.2),
 	 goes-boot-mk1 (>= 2.0~alpha.4),
 	 linux-image-platina-mk1 (>= 2.0~alpha.0),
 	 linux-headers-platina-mk1 (>= 2.0~alpha.0),

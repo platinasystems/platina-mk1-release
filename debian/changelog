@@ -1,3 +1,9 @@
+platina-mk1-release (2.0~alpha.2) unstable; urgency=medium
+
+  * Bump dependency versions.
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Fri, 12 Jun 2020 12:55:45 -0600
+
 platina-mk1-release (2.0~alpha.1) unstable; urgency=medium
 
   * Bump dependency versions.
