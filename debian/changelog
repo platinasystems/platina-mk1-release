@@ -1,3 +1,12 @@
+platina-mk1-release (2.0~alpha.5) stretch; urgency=medium
+
+  * Bump dependency versions for goes-platina-mk1 to 2.0~alpha.4.
+
+  * Bump dependency versions for linux-image-platina-mk1 and
+    linux-headers-platina-mk1 to 2.0~alpha.1.
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Tue, 16 Jun 2020 13:57:09 -0600
+
 platina-mk1-release (2.0~alpha.4) stretch; urgency=medium
 
   * Bump dependency versions for platina-mk1-ttys to 2.0~alpha.1.
