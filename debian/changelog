@@ -1,3 +1,9 @@
+platina-mk1-release (2.0~rc.1) stretch; urgency=medium
+
+  * platina-mk1-release: Update packages to 2.0~rc.1
+
+ -- Kevin Paul Herbert <kph@invader63.platinasystems.com>  Fri, 19 Jun 2020 16:40:29 -0700
+
 platina-mk1-release (2.0~alpha.5) stretch; urgency=medium
 
   * Bump dependency versions for goes-platina-mk1 to 2.0~alpha.4.
