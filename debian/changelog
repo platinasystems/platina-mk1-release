@@ -1,3 +1,9 @@
+platina-mk1-release (2.0.0) stretch; urgency=medium
+
+  * Release 2.0.0
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Mon, 22 Jun 2020 17:13:55 -0600
+
 platina-mk1-release (2.0~rc.1) stretch; urgency=medium
 
   * platina-mk1-release: Update packages to 2.0~rc.1
