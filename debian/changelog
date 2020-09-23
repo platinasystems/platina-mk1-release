@@ -1,3 +1,9 @@
+platina-mk1-release (2.1.1) stretch; urgency=medium
+
+  * Update fe1 to 2.1.1
+
+ -- Kevin Paul Herbert <kph@platina4.platinasystems.com>  Wed, 23 Sep 2020 11:43:58 -0700
+
 platina-mk1-release (2.1.0) stretch; urgency=medium
 
   * Release 2.1.0
