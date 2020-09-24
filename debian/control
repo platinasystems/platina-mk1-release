@@ -12,7 +12,7 @@ Package: platina-mk1-release
 Architecture: amd64
 Depends: ${misc:Depends},
 	 goes-platina-mk1 (>= 2.1.3),
-	 goes-boot-mk1 (>= 2.1.0),
+	 goes-boot-mk1 (>= 2.1.1),
 	 linux-image-platina-mk1 (>= 2.1.0),
 	 linux-headers-platina-mk1 (>= 2.1.0),
 	 platina-mk1-ttys (>= 2.1.0),
