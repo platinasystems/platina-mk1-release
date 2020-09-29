@@ -1,3 +1,9 @@
+platina-mk1-release (2.1.4) stretch; urgency=medium
+
+  * debian/control: Update platina-mk1-ttys to 2.1.1
+
+ -- Kevin Paul Herbert <kph@platina4.platinasystems.com>  Tue, 29 Sep 2020 14:17:30 -0700
+
 platina-mk1-release (2.1.3) stretch; urgency=medium
 
   * debian/control: Update platina-mk1-ttys to 2.1.1

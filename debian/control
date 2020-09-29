@@ -13,8 +13,8 @@ Architecture: amd64
 Depends: ${misc:Depends},
 	 goes-platina-mk1 (>= 2.1.3),
 	 goes-boot-mk1 (>= 2.1.1),
-	 linux-image-platina-mk1 (>= 2.1.0),
-	 linux-headers-platina-mk1 (>= 2.1.0),
+	 linux-image-platina-mk1 (>= 2.1.1),
+	 linux-headers-platina-mk1 (>= 2.1.1),
 	 platina-mk1-ttys (>= 2.1.2),
 	 goes-completion (>= 1.18.2)
 Description: Platina MK1 release meta package
