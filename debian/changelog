@@ -1,3 +1,9 @@
+platina-mk1-release (2.1.9) stretch; urgency=medium
+
+  * platina-mk1-release: Update kernel to v4.18.20.325
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Fri, 22 Jan 2021 19:06:51 -0700
+
 platina-mk1-release (2.1.8) stretch; urgency=medium
 
   * platina-mk1-release: Update kernel to v4.18.20.324
