@@ -1,3 +1,11 @@
+platina-mk1-release (2.1.13) stretch; urgency=medium
+
+  * platina-mk1-release: Update goes-boot-mk1 to 2.1.3
+  * platina-mk1-release: Add goes-boot-mk1-factory to 2.1.3
+  * platina-mk1-release: Update goes-platina-mk1 to 2.1.5
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Thu, 04 Feb 2021 20:58:32 -0700
+
 platina-mk1-release (2.1.12) stretch; urgency=medium
 
   * platina-mk1-release: Update goes-boot to 2.1.2
