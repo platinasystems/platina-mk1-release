@@ -14,8 +14,8 @@ Depends: ${misc:Depends},
 	 goes-platina-mk1 (>= 2.1.6),
 	 goes-boot-mk1 (>= 2.1.4),
 	 goes-boot-mk1-factory (>= 2.1.4),
-	 linux-image-platina-mk1 (>= 2.1.5),
-	 linux-headers-platina-mk1 (>= 2.1.5),
+	 linux-image-platina-mk1 (>= 2.1.7),
+	 linux-headers-platina-mk1 (>= 2.1.7),
 	 platina-mk1-ttys (>= 2.1.5),
 	 goes-completion (>= 1.18.2)
 Description: Platina MK1 release meta package
