@@ -1,3 +1,9 @@
+platina-mk1-release (2.2~alpha.1) stretch; urgency=medium
+
+  * platina-mk1-release: Merge 2.1.16 [update goes-boot]
+
+-- Kevin Paul Herbert <kph@platinasystems.com>  Thu, 15 Apr 2021 10:08:29 -0700
+
 platina-mk1-release (2.2~alpha.0) stretch; urgency=medium
 
   * platina-mk1-release: Update linux-{image|headers}-platina-mk1 to 2.2~alpha.0
@@ -5,6 +11,14 @@ platina-mk1-release (2.2~alpha.0) stretch; urgency=medium
   * xeth: Initial commit - 3.0.1
 
  -- Kevin Paul Herbert <kph@platinasystems.com>  Tue, 13 Mar 2021 09:25:25 -0700
+
+platina-mk1-release (2.1.16) stretch; urgency=medium
+
+  * goes-platina-mk1: Fix version number missed in 2.1.15
+  * goes-boot: Create /dev/fd link in installer as some packages
+	expect it (DKMS in particular)
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Thu, 15 Apr 2021 09:30:30 -0700
 
 platina-mk1-release (2.1.15) stretch; urgency=medium
 
