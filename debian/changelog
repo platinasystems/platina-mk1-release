@@ -1,3 +1,9 @@
+platina-mk1-release (2.2~alpha.2) stretch; urgency=medium
+
+  * debian/control: Bump more packages to 2.2~alpha.0
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Wed, 28 Apr 2021 16:33:46 -0700
+
 platina-mk1-release (2.2~alpha.1) stretch; urgency=medium
 
   * platina-mk1-release: Merge 2.1.16 [update goes-boot]
