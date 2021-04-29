@@ -1,3 +1,9 @@
+platina-mk1-release (2.2~alpha.3) stretch; urgency=medium
+
+  * platina-mk1-release: Add onie
+
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Wed, 28 Apr 2021 21:24:24 -0700
+
 platina-mk1-release (2.2~alpha.2) stretch; urgency=medium
 
   * debian/control: Bump more packages to 2.2~alpha.0
