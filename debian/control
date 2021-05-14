@@ -18,8 +18,9 @@ Depends: ${misc:Depends},
 	 linux-headers-platina-mk1 (>= 2.2~alpha.0),
 	 platina-mk1-ttys (>= 2.1.5),
 	 goes-completion (>= 1.18.2),
+	 i2cipc-controller-dkms (>= 0.0.1),
 	 onie-dkms (>= 0.0.3),
-	 xeth-dkms (>= 3.0.1)
+	 xeth-dkms (>= 3.0.3)
 Description: Platina MK1 release meta package
  This is the Platina MK1 release meta package. If you install this,
  your Platina MK1 installation will be kept up to date.

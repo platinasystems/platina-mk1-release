@@ -1,3 +1,9 @@
+platina-mk1-release (2.2~alpha.4) stretch; urgency=medium
+
+  * i2cipc-controller-dkms: Add 0.0.1 release
+
+-- Kevin Paul Herbert <kph@platinasystems.com>  Fri, 14 May 2021 13:56:52 -0700
+
 platina-mk1-release (2.2~alpha.3) stretch; urgency=medium
 
   * platina-mk1-release: Add onie
