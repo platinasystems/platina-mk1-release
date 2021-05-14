@@ -1,3 +1,10 @@
+platina-mk1-release (2.2~alpha.5) stretch; urgency=medium
+
+  * goes-boot: Bump to 2.2~alpha.1
+  * platina-linux-kernel: Bump to 2.2~alpha.1
+
+-- Kevin Paul Herbert <kph@platinasystems.com>  Fri, 14 May 2021 14:20:14 -0700
+
 platina-mk1-release (2.2~alpha.4) stretch; urgency=medium
 
   * i2cipc-controller-dkms: Add 0.0.1 release
