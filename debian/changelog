@@ -1,3 +1,9 @@
+platina-mk1-release (2.2~alpha.6) buster; urgency=medium
+
+  * platina-linux-kernel: Bump to 2.2~alpha.2
+
+ --  <kph@platinasystems.com>  Fri, 14 May 2021 21:11:44 -0700
+
 platina-mk1-release (2.2~alpha.5) stretch; urgency=medium
 
   * goes-boot: Bump to 2.2~alpha.1
