@@ -48,8 +48,11 @@ platina-mk1-release (2.1.16) stretch; urgency=medium
   * goes-platina-mk1: Fix version number missed in 2.1.15
   * goes-boot: Create /dev/fd link in installer as some packages
 	expect it (DKMS in particular)
+  * goes-boot: Bump to 2.1.6
+  * platina-apt-source: New package; add 1.0
+  * platina-archive-keyring: New package; add 1.0
 
- -- Kevin Paul Herbert <kph@platinasystems.com>  Thu, 15 Apr 2021 09:30:30 -0700
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Fri, 20 Aug 2021 13:34:26 -0700
 
 platina-mk1-release (2.1.15) stretch; urgency=medium
 
